@@ -1,35 +1,43 @@
 import requests
 import re
 
-# 定义来源 URL
+# 你的来源 URL
 urls = [
     "https://raw.githubusercontent.com/adysec/tracker/master/tracker_all.txt",
     "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
 ]
 
-def get_ips():
-    ips = set()
+def get_trackers():
+    trackers = set()
     for url in urls:
         try:
-            response = requests.get(url, timeout=10)
-            # 使用正则提取域名或 IP
-            # 匹配 http/https/udp 链接中的主机部分
+            print(f"Fetching: {url}")
+            response = requests.get(url, timeout=15)
+            # 提取域名或 IP 端口前的部分
+            # 支持 udp://, http://, https:// 等格式
             found = re.findall(r'(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}|(?:\d{1,3}\.){3}\d{1,3}', response.text)
-            ips.update(found)
-        except:
-            continue
-    return sorted(list(ips))
+            trackers.update(found)
+        except Exception as e:
+            print(f"Error fetching {url}: {e}")
+    return sorted(list(trackers))
 
-def save_rsc(ip_list):
+def save_to_rsc(tracker_list):
     with open("tracker_list.rsc", "w") as f:
+        # 头部声明
+        f.write("# Generated MikroTik Tracker List\n")
         f.write("/ip firewall address-list\n")
-        # 清理旧列表
+        
+        # 批量删除旧条目，防止重复和冗余
         f.write("remove [find list=bt_trackers]\n")
-        for ip in ip_list:
-            # MikroTik 会自动解析域名为 IP
-            f.write(f"add address={ip} list=bt_trackers timeout=1d\n")
+        
+        for item in tracker_list:
+            # 去除 github 这种无关域名（如果正则误抓）
+            if "github" in item or "google" in item:
+                continue
+            # MikroTik 允许直接将域名放入 address-list，它会自动解析
+            f.write(f"add address={item} list=bt_trackers comment=bitcomet_tracker\n")
 
 if __name__ == "__main__":
-    ips = get_ips()
-    save_rsc(ips)
-    print(f"Total trackers: {len(ips)}")
+    trackers = get_trackers()
+    save_to_rsc(trackers)
+    print(f"Success! Generated {len(trackers)} trackers.")
