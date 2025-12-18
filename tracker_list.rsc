@@ -18,9 +18,9 @@ add address=concen.org list=bt_trackers comment=bitcomet_tracker
 add address=d40969.acod.regrucolo.ru list=bt_trackers comment=bitcomet_tracker
 add address=explodie.org list=bt_trackers comment=bitcomet_tracker
 add address=extracker.dahrkael.net list=bt_trackers comment=bitcomet_tracker
-add address=hificode.in list=bt_trackers comment=bitcomet_tracker
 add address=home.yxgz.club list=bt_trackers comment=bitcomet_tracker
 add address=ipv4announce.sktorrent.eu list=bt_trackers comment=bitcomet_tracker
+add address=leet-tracker.moe list=bt_trackers comment=bitcomet_tracker
 add address=martin-gebhardt.eu list=bt_trackers comment=bitcomet_tracker
 add address=open.acgtracker.com list=bt_trackers comment=bitcomet_tracker
 add address=open.demonii.com list=bt_trackers comment=bitcomet_tracker
@@ -33,7 +33,6 @@ add address=p4p.arenabg.com list=bt_trackers comment=bitcomet_tracker
 add address=retracker.lanta.me list=bt_trackers comment=bitcomet_tracker
 add address=retracker.spark-rostov.ru list=bt_trackers comment=bitcomet_tracker
 add address=retracker01-msk-virt.corbina.net list=bt_trackers comment=bitcomet_tracker
-add address=run.publictracker.xyz list=bt_trackers comment=bitcomet_tracker
 add address=seeders-paradise.org list=bt_trackers comment=bitcomet_tracker
 add address=servandroidkino.ru list=bt_trackers comment=bitcomet_tracker
 add address=shahidrazi.online list=bt_trackers comment=bitcomet_tracker
@@ -64,6 +63,7 @@ add address=tracker.dhitechnical.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.dler.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.dmcomic.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.ducks.party list=bt_trackers comment=bitcomet_tracker
+add address=tracker.filemail.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.flatuslifir.is list=bt_trackers comment=bitcomet_tracker
 add address=tracker.fnix.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.gcrenwp.top list=bt_trackers comment=bitcomet_tracker
@@ -92,6 +92,7 @@ add address=tracker.tvunderground.org.ru list=bt_trackers comment=bitcomet_track
 add address=tracker.uraniumhexafluori.de list=bt_trackers comment=bitcomet_tracker
 add address=tracker.vanitycore.co list=bt_trackers comment=bitcomet_tracker
 add address=tracker.waaa.moe list=bt_trackers comment=bitcomet_tracker
+add address=tracker.wepzone.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.xiaoduola.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.zhuqiy.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.zupix.online list=bt_trackers comment=bitcomet_tracker
