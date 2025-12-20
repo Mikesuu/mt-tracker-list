@@ -3,6 +3,7 @@
 remove [find list=bt_trackers]
 add address=0123456789nonexistent.com list=bt_trackers comment=bitcomet_tracker
 add address=0d.kebhana.mx list=bt_trackers comment=bitcomet_tracker
+add address=1337.abcvg.info list=bt_trackers comment=bitcomet_tracker
 add address=6ahddutb1ucc3cp.ru list=bt_trackers comment=bitcomet_tracker
 add address=aboutbeautifulgallopinghorsesinthegreenpasture.online list=bt_trackers comment=bitcomet_tracker
 add address=announce.php list=bt_trackers comment=bitcomet_tracker
@@ -36,10 +37,8 @@ add address=retracker.spark-rostov.ru list=bt_trackers comment=bitcomet_tracker
 add address=retracker01-msk-virt.corbina.net list=bt_trackers comment=bitcomet_tracker
 add address=run.publictracker.xyz list=bt_trackers comment=bitcomet_tracker
 add address=seeders-paradise.org list=bt_trackers comment=bitcomet_tracker
-add address=servandroidkino.ru list=bt_trackers comment=bitcomet_tracker
 add address=shahidrazi.online list=bt_trackers comment=bitcomet_tracker
 add address=share.hkg-fansub.info list=bt_trackers comment=bitcomet_tracker
-add address=shubt.net list=bt_trackers comment=bitcomet_tracker
 add address=t.213891.xyz list=bt_trackers comment=bitcomet_tracker
 add address=t.overflow.biz list=bt_trackers comment=bitcomet_tracker
 add address=torrent.hificode.in list=bt_trackers comment=bitcomet_tracker
@@ -100,10 +99,10 @@ add address=tracker.xiaoduola.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.yemekyedim.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.zhuqiy.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.zupix.online list=bt_trackers comment=bitcomet_tracker
-add address=tracker1.myporn.club list=bt_trackers comment=bitcomet_tracker
 add address=tracker2.dler.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker810.xyz list=bt_trackers comment=bitcomet_tracker
 add address=udp.tracker.projectk.org list=bt_trackers comment=bitcomet_tracker
 add address=wepzone.net list=bt_trackers comment=bitcomet_tracker
 add address=www.genesis-sp.org list=bt_trackers comment=bitcomet_tracker
 add address=www.torrentsnipe.info list=bt_trackers comment=bitcomet_tracker
+add address=yuki.bt.bontal.net list=bt_trackers comment=bitcomet_tracker
