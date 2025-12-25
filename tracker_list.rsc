@@ -21,6 +21,7 @@ add address=ns575949.ip-51-222-82.net list=bt_trackers comment=bitcomet_tracker
 add address=open.acgtracker.com list=bt_trackers comment=bitcomet_tracker
 add address=open.demonii.com list=bt_trackers comment=bitcomet_tracker
 add address=open.demonoid.ch list=bt_trackers comment=bitcomet_tracker
+add address=open.dstud.io list=bt_trackers comment=bitcomet_tracker
 add address=open.stealth.si list=bt_trackers comment=bitcomet_tracker
 add address=open.tracker.cl list=bt_trackers comment=bitcomet_tracker
 add address=opentracker.io list=bt_trackers comment=bitcomet_tracker
@@ -30,6 +31,7 @@ add address=retracker01-msk-virt.corbina.net list=bt_trackers comment=bitcomet_t
 add address=run.publictracker.xyz list=bt_trackers comment=bitcomet_tracker
 add address=shahidrazi.online list=bt_trackers comment=bitcomet_tracker
 add address=t.213891.xyz list=bt_trackers comment=bitcomet_tracker
+add address=t.overflow.biz list=bt_trackers comment=bitcomet_tracker
 add address=torrent.tracker.durukanbal.com list=bt_trackers comment=bitcomet_tracker
 add address=torrentclub.online list=bt_trackers comment=bitcomet_tracker
 add address=tr.highstar.shop list=bt_trackers comment=bitcomet_tracker
@@ -41,11 +43,9 @@ add address=tracker-de-2.cutie.dating list=bt_trackers comment=bitcomet_tracker
 add address=tracker-udp.gbitt.info list=bt_trackers comment=bitcomet_tracker
 add address=tracker.0x7c0.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.1h.is list=bt_trackers comment=bitcomet_tracker
-add address=tracker.23794.top list=bt_trackers comment=bitcomet_tracker
 add address=tracker.alaskantf.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.bittor.pw list=bt_trackers comment=bitcomet_tracker
 add address=tracker.bt4g.com list=bt_trackers comment=bitcomet_tracker
-add address=tracker.cloudbase.store list=bt_trackers comment=bitcomet_tracker
 add address=tracker.cutie.dating list=bt_trackers comment=bitcomet_tracker
 add address=tracker.darkness.services list=bt_trackers comment=bitcomet_tracker
 add address=tracker.dhitechnical.com list=bt_trackers comment=bitcomet_tracker
@@ -53,9 +53,9 @@ add address=tracker.dler.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.ducks.party list=bt_trackers comment=bitcomet_tracker
 add address=tracker.flatuslifir.is list=bt_trackers comment=bitcomet_tracker
 add address=tracker.fnix.net list=bt_trackers comment=bitcomet_tracker
-add address=tracker.gcrenwp.top list=bt_trackers comment=bitcomet_tracker
 add address=tracker.ghostchu-services.top list=bt_trackers comment=bitcomet_tracker
 add address=tracker.gmi.gd list=bt_trackers comment=bitcomet_tracker
+add address=tracker.hifimarket.in list=bt_trackers comment=bitcomet_tracker
 add address=tracker.leechshield.link list=bt_trackers comment=bitcomet_tracker
 add address=tracker.moeblog.cn list=bt_trackers comment=bitcomet_tracker
 add address=tracker.moeking.me list=bt_trackers comment=bitcomet_tracker
@@ -68,11 +68,12 @@ add address=tracker.pmman.tech list=bt_trackers comment=bitcomet_tracker
 add address=tracker.qingwa.pro list=bt_trackers comment=bitcomet_tracker
 add address=tracker.qu.ax list=bt_trackers comment=bitcomet_tracker
 add address=tracker.renfei.net list=bt_trackers comment=bitcomet_tracker
+add address=tracker.startwork.cv list=bt_trackers comment=bitcomet_tracker
 add address=tracker.t-1.org list=bt_trackers comment=bitcomet_tracker
-add address=tracker.theoks.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.therarbg.to list=bt_trackers comment=bitcomet_tracker
 add address=tracker.torrent.eu.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.torrust-demo.com list=bt_trackers comment=bitcomet_tracker
+add address=tracker.tritan.gg list=bt_trackers comment=bitcomet_tracker
 add address=tracker.tryhackx.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.tvunderground.org.ru list=bt_trackers comment=bitcomet_tracker
 add address=tracker.uraniumhexafluori.de list=bt_trackers comment=bitcomet_tracker
