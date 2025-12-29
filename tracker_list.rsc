@@ -2,6 +2,7 @@
 /ip firewall address-list
 remove [find list=bt_trackers]
 add address=1337.abcvg.info list=bt_trackers comment=bitcomet_tracker
+add address=6ahddutb1ucc3cp.ru list=bt_trackers comment=bitcomet_tracker
 add address=aboutbeautifulgallopinghorsesinthegreenpasture.online list=bt_trackers comment=bitcomet_tracker
 add address=bandito.byterunner.io list=bt_trackers comment=bitcomet_tracker
 add address=bittorrent-tracker.e-n-c-r-y-p-t.net list=bt_trackers comment=bitcomet_tracker
@@ -44,16 +45,13 @@ add address=tracker.23794.top list=bt_trackers comment=bitcomet_tracker
 add address=tracker.alaskantf.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.bittor.pw list=bt_trackers comment=bitcomet_tracker
 add address=tracker.bt4g.com list=bt_trackers comment=bitcomet_tracker
-add address=tracker.cloudbase.store list=bt_trackers comment=bitcomet_tracker
 add address=tracker.cutie.dating list=bt_trackers comment=bitcomet_tracker
 add address=tracker.darkness.services list=bt_trackers comment=bitcomet_tracker
 add address=tracker.dhitechnical.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.dler.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.ducks.party list=bt_trackers comment=bitcomet_tracker
-add address=tracker.filemail.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.flatuslifir.is list=bt_trackers comment=bitcomet_tracker
 add address=tracker.fnix.net list=bt_trackers comment=bitcomet_tracker
-add address=tracker.gcrenwp.top list=bt_trackers comment=bitcomet_tracker
 add address=tracker.ghostchu-services.top list=bt_trackers comment=bitcomet_tracker
 add address=tracker.gmi.gd list=bt_trackers comment=bitcomet_tracker
 add address=tracker.hifimarket.in list=bt_trackers comment=bitcomet_tracker
@@ -80,12 +78,9 @@ add address=tracker.tryhackx.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.tvunderground.org.ru list=bt_trackers comment=bitcomet_tracker
 add address=tracker.uraniumhexafluori.de list=bt_trackers comment=bitcomet_tracker
 add address=tracker.waaa.moe list=bt_trackers comment=bitcomet_tracker
-add address=tracker.wepzone.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.zhuqiy.com list=bt_trackers comment=bitcomet_tracker
-add address=tracker.zupix.online list=bt_trackers comment=bitcomet_tracker
 add address=tracker1.t-1.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker2.dler.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker3.t-1.org list=bt_trackers comment=bitcomet_tracker
-add address=wepzone.net list=bt_trackers comment=bitcomet_tracker
+add address=udp.tracker.projectk.org list=bt_trackers comment=bitcomet_tracker
 add address=www.2600.com list=bt_trackers comment=bitcomet_tracker
-add address=yuki.bt.bontal.net list=bt_trackers comment=bitcomet_tracker
