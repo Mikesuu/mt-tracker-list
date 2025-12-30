@@ -3,8 +3,27 @@ import re
 
 # 你的来源 URL
 urls = [
-    "https://raw.githubusercontent.com/adysec/tracker/master/tracker_all.txt",
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt"
     "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt"
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt"
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt"
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt"
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt"
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_i2p.txt"
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_yggdrasil.txt"
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt"
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt"
+    "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_yggdrasil_ip.txt"
+    "https://cf.trackerslist.com/best.txt"
+    "https://cf.trackerslist.com/all.txt"
+    "https://cf.trackerslist.com/http.txt"
+    "https://cf.trackerslist.com/nohttp.txt"
+    "https://down.adysec.com/trackers_all.txt"
+    "https://down.adysec.com/trackers_best.txt"
+    "https://down.adysec.com/trackers_best_http.txt"
+    "https://down.adysec.com/trackers_best_https.txt"
+    "https://down.adysec.com/trackers_best_udp.txt"
+    "https://down.adysec.com/trackers_best_wss.txt"
 ]
 
 def get_trackers():
