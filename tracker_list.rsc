@@ -257,6 +257,7 @@ add address=177.188.141.137 list=bt_trackers comment=bitcomet_tracker
 add address=177.188.141.175 list=bt_trackers comment=bitcomet_tracker
 add address=177.188.141.32 list=bt_trackers comment=bitcomet_tracker
 add address=177.215.65.176 list=bt_trackers comment=bitcomet_tracker
+add address=177.215.65.40 list=bt_trackers comment=bitcomet_tracker
 add address=177.215.67.115 list=bt_trackers comment=bitcomet_tracker
 add address=177.215.67.165 list=bt_trackers comment=bitcomet_tracker
 add address=177.215.67.185 list=bt_trackers comment=bitcomet_tracker
@@ -576,6 +577,7 @@ add address=37.27.188.67 list=bt_trackers comment=bitcomet_tracker
 add address=37.27.4.53 list=bt_trackers comment=bitcomet_tracker
 add address=37.59.48.81 list=bt_trackers comment=bitcomet_tracker
 add address=38.145.197.79 list=bt_trackers comment=bitcomet_tracker
+add address=38.175.99.50 list=bt_trackers comment=bitcomet_tracker
 add address=4.tracker.devnak.win list=bt_trackers comment=bitcomet_tracker
 add address=4.tracker.eu.org list=bt_trackers comment=bitcomet_tracker
 add address=41.79.68.156 list=bt_trackers comment=bitcomet_tracker
