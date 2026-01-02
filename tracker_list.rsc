@@ -368,6 +368,7 @@ add address=189.69.167.130 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.168.180 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.169.237 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.169.89 list=bt_trackers comment=bitcomet_tracker
+add address=189.69.170.69 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.171.209 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.171.248 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.171.75 list=bt_trackers comment=bitcomet_tracker
@@ -1825,6 +1826,7 @@ add address=tracker.sktorrent.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.skynetcloud.site list=bt_trackers comment=bitcomet_tracker
 add address=tracker.skyts.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.sloppyta.co list=bt_trackers comment=bitcomet_tracker
+add address=tracker.soshifanclub.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.srv00.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.startwork.cv list=bt_trackers comment=bitcomet_tracker
 add address=tracker.sushirave.net list=bt_trackers comment=bitcomet_tracker
