@@ -128,6 +128,7 @@ add address=128.199.70.66 list=bt_trackers comment=bitcomet_tracker
 add address=129.146.193.240 list=bt_trackers comment=bitcomet_tracker
 add address=13.115.115.32 list=bt_trackers comment=bitcomet_tracker
 add address=130.61.158.165 list=bt_trackers comment=bitcomet_tracker
+add address=132.226.6.145 list=bt_trackers comment=bitcomet_tracker
 add address=1337.abcvg.info list=bt_trackers comment=bitcomet_tracker
 add address=135.125.106.92 list=bt_trackers comment=bitcomet_tracker
 add address=135.125.202.143 list=bt_trackers comment=bitcomet_tracker
@@ -346,6 +347,7 @@ add address=187.56.205.91 list=bt_trackers comment=bitcomet_tracker
 add address=187.57.130.109 list=bt_trackers comment=bitcomet_tracker
 add address=187.57.130.147 list=bt_trackers comment=bitcomet_tracker
 add address=187.57.131.202 list=bt_trackers comment=bitcomet_tracker
+add address=187.57.132.20 list=bt_trackers comment=bitcomet_tracker
 add address=187.57.132.246 list=bt_trackers comment=bitcomet_tracker
 add address=187.57.14.62 list=bt_trackers comment=bitcomet_tracker
 add address=187.57.229.141 list=bt_trackers comment=bitcomet_tracker
@@ -1038,6 +1040,7 @@ add address=cloud.samtechnic.ir list=bt_trackers comment=bitcomet_tracker
 add address=cn.pcfreetime.com list=bt_trackers comment=bitcomet_tracker
 add address=cny.fan list=bt_trackers comment=bitcomet_tracker
 add address=code2chicken.nl list=bt_trackers comment=bitcomet_tracker
+add address=colivioo.com list=bt_trackers comment=bitcomet_tracker
 add address=commento.getblog.cn list=bt_trackers comment=bitcomet_tracker
 add address=concen.org list=bt_trackers comment=bitcomet_tracker
 add address=connect.swifte.space list=bt_trackers comment=bitcomet_tracker
@@ -1882,6 +1885,7 @@ add address=tracker.vds.nz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.vectahosting.eu list=bt_trackers comment=bitcomet_tracker
 add address=tracker.vraphim.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.vrpnet.org list=bt_trackers comment=bitcomet_tracker
+add address=tracker.vulnix.sh list=bt_trackers comment=bitcomet_tracker
 add address=tracker.waaa.moe list=bt_trackers comment=bitcomet_tracker
 add address=tracker.webtorrent.dev list=bt_trackers comment=bitcomet_tracker
 add address=tracker.wellknownclub.net list=bt_trackers comment=bitcomet_tracker
