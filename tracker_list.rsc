@@ -255,6 +255,7 @@ add address=177.172.66.120 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.66.210 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.67.247 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.67.94 list=bt_trackers comment=bitcomet_tracker
+add address=177.173.31.33 list=bt_trackers comment=bitcomet_tracker
 add address=177.188.141.137 list=bt_trackers comment=bitcomet_tracker
 add address=177.188.141.175 list=bt_trackers comment=bitcomet_tracker
 add address=177.188.141.32 list=bt_trackers comment=bitcomet_tracker
@@ -2027,6 +2028,7 @@ add address=www.shnflac.net list=bt_trackers comment=bitcomet_tracker
 add address=www.siambt.com list=bt_trackers comment=bitcomet_tracker
 add address=www.skyts.net list=bt_trackers comment=bitcomet_tracker
 add address=www.thegeeks.bz list=bt_trackers comment=bitcomet_tracker
+add address=www.theoccult.bz list=bt_trackers comment=bitcomet_tracker
 add address=www.theplace.bz list=bt_trackers comment=bitcomet_tracker
 add address=www.torrent-downloads.to list=bt_trackers comment=bitcomet_tracker
 add address=www.torrent.eu.org list=bt_trackers comment=bitcomet_tracker
