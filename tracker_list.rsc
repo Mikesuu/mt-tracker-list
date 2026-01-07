@@ -240,6 +240,7 @@ add address=177.139.47.105 list=bt_trackers comment=bitcomet_tracker
 add address=177.139.47.18 list=bt_trackers comment=bitcomet_tracker
 add address=177.139.47.236 list=bt_trackers comment=bitcomet_tracker
 add address=177.139.47.40 list=bt_trackers comment=bitcomet_tracker
+add address=177.139.47.92 list=bt_trackers comment=bitcomet_tracker
 add address=177.144.178.170 list=bt_trackers comment=bitcomet_tracker
 add address=177.144.178.39 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.61.236 list=bt_trackers comment=bitcomet_tracker
@@ -1701,6 +1702,7 @@ add address=tracker.iro.moe list=bt_trackers comment=bitcomet_tracker
 add address=tracker.ismaarino.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.istole.it list=bt_trackers comment=bitcomet_tracker
 add address=tracker.itscraftsoftware.my.id list=bt_trackers comment=bitcomet_tracker
+add address=tracker.ixuexi.click list=bt_trackers comment=bitcomet_tracker
 add address=tracker.jamesthebard.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.jdx3.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.jiesen.life list=bt_trackers comment=bitcomet_tracker
