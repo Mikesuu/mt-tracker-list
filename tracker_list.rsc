@@ -236,6 +236,7 @@ add address=177.112.215.4 list=bt_trackers comment=bitcomet_tracker
 add address=177.112.215.99 list=bt_trackers comment=bitcomet_tracker
 add address=177.139.44.145 list=bt_trackers comment=bitcomet_tracker
 add address=177.139.44.78 list=bt_trackers comment=bitcomet_tracker
+add address=177.139.46.160 list=bt_trackers comment=bitcomet_tracker
 add address=177.139.47.105 list=bt_trackers comment=bitcomet_tracker
 add address=177.139.47.18 list=bt_trackers comment=bitcomet_tracker
 add address=177.139.47.236 list=bt_trackers comment=bitcomet_tracker
@@ -324,6 +325,7 @@ add address=185.83.215.123 list=bt_trackers comment=bitcomet_tracker
 add address=185.86.149.205 list=bt_trackers comment=bitcomet_tracker
 add address=185.87.45.163 list=bt_trackers comment=bitcomet_tracker
 add address=186.10.170.119 list=bt_trackers comment=bitcomet_tracker
+add address=186.10.170.186 list=bt_trackers comment=bitcomet_tracker
 add address=186.10.170.23 list=bt_trackers comment=bitcomet_tracker
 add address=186.10.170.30 list=bt_trackers comment=bitcomet_tracker
 add address=186.10.170.56 list=bt_trackers comment=bitcomet_tracker
@@ -1965,6 +1967,7 @@ add address=trackers.ptlsp.com list=bt_trackers comment=bitcomet_tracker
 add address=trackers.run list=bt_trackers comment=bitcomet_tracker
 add address=trackers.ydns.eu list=bt_trackers comment=bitcomet_tracker
 add address=trackme.theom.nz list=bt_trackers comment=bitcomet_tracker
+add address=trackr.appolon.dev list=bt_trackers comment=bitcomet_tracker
 add address=trakx.herokuapp.com list=bt_trackers comment=bitcomet_tracker
 add address=trl-zhuqiy.dgj055.icu list=bt_trackers comment=bitcomet_tracker
 add address=trun.tom.ru list=bt_trackers comment=bitcomet_tracker
