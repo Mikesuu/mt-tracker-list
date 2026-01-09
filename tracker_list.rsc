@@ -434,6 +434,7 @@ add address=200.148.11.61 list=bt_trackers comment=bitcomet_tracker
 add address=200.161.254.131 list=bt_trackers comment=bitcomet_tracker
 add address=200.161.254.194 list=bt_trackers comment=bitcomet_tracker
 add address=200.161.254.20 list=bt_trackers comment=bitcomet_tracker
+add address=200.168.116.200 list=bt_trackers comment=bitcomet_tracker
 add address=200.168.117.55 list=bt_trackers comment=bitcomet_tracker
 add address=200.170.109.125 list=bt_trackers comment=bitcomet_tracker
 add address=200.170.109.148 list=bt_trackers comment=bitcomet_tracker
@@ -502,6 +503,7 @@ add address=212.47.227.58 list=bt_trackers comment=bitcomet_tracker
 add address=212.6.3.67 list=bt_trackers comment=bitcomet_tracker
 add address=212.60.5.147 list=bt_trackers comment=bitcomet_tracker
 add address=212.60.5.203 list=bt_trackers comment=bitcomet_tracker
+add address=212.8.249.30 list=bt_trackers comment=bitcomet_tracker
 add address=213.159.215.198 list=bt_trackers comment=bitcomet_tracker
 add address=213.163.67.56 list=bt_trackers comment=bitcomet_tracker
 add address=216.144.239.90 list=bt_trackers comment=bitcomet_tracker
@@ -1584,6 +1586,7 @@ add address=tracker.btorrent.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.btsync.gq list=bt_trackers comment=bitcomet_tracker
 add address=tracker.btzero.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.btzoo.eu list=bt_trackers comment=bitcomet_tracker
+add address=tracker.bug38.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.bulao.ren list=bt_trackers comment=bitcomet_tracker
 add address=tracker.bz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.calculate.ru list=bt_trackers comment=bitcomet_tracker
@@ -1652,6 +1655,7 @@ add address=tracker.fastdownload.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.fatkhoala.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.fdn.fr list=bt_trackers comment=bitcomet_tracker
 add address=tracker.feb217.tk list=bt_trackers comment=bitcomet_tracker
+add address=tracker.file09.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.filemail.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.filepit.to list=bt_trackers comment=bitcomet_tracker
 add address=tracker.files.fm list=bt_trackers comment=bitcomet_tracker
