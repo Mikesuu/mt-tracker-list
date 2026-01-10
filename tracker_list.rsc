@@ -255,6 +255,7 @@ add address=177.172.65.102 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.65.168 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.66.120 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.66.210 list=bt_trackers comment=bitcomet_tracker
+add address=177.172.67.13 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.67.247 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.67.94 list=bt_trackers comment=bitcomet_tracker
 add address=177.173.31.33 list=bt_trackers comment=bitcomet_tracker
@@ -1791,6 +1792,7 @@ add address=tracker.opentracker.se list=bt_trackers comment=bitcomet_tracker
 add address=tracker.opentrackr.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.openwebtorrent.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.openzim.org list=bt_trackers comment=bitcomet_tracker
+add address=tracker.orsvarn.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.parrotlinux.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.parrotsec.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.pcfreetime.com list=bt_trackers comment=bitcomet_tracker
