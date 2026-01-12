@@ -158,6 +158,7 @@ add address=144.202.33.210 list=bt_trackers comment=bitcomet_tracker
 add address=144.76.118.107 list=bt_trackers comment=bitcomet_tracker
 add address=144.91.88.22 list=bt_trackers comment=bitcomet_tracker
 add address=145.223.96.109 list=bt_trackers comment=bitcomet_tracker
+add address=147.45.77.75 list=bt_trackers comment=bitcomet_tracker
 add address=147job.com list=bt_trackers comment=bitcomet_tracker
 add address=148.113.168.115 list=bt_trackers comment=bitcomet_tracker
 add address=148.251.53.72 list=bt_trackers comment=bitcomet_tracker
@@ -496,6 +497,7 @@ add address=211.97.119.7 list=bt_trackers comment=bitcomet_tracker
 add address=211.97.119.70 list=bt_trackers comment=bitcomet_tracker
 add address=211.97.119.76 list=bt_trackers comment=bitcomet_tracker
 add address=211.97.119.84 list=bt_trackers comment=bitcomet_tracker
+add address=211.97.119.88 list=bt_trackers comment=bitcomet_tracker
 add address=211.97.119.98 list=bt_trackers comment=bitcomet_tracker
 add address=212.1.226.176 list=bt_trackers comment=bitcomet_tracker
 add address=212.237.53.230 list=bt_trackers comment=bitcomet_tracker
