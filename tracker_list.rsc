@@ -721,6 +721,7 @@ add address=69.30.233.234 list=bt_trackers comment=bitcomet_tracker
 add address=6ahddutb1ucc3cp.ru list=bt_trackers comment=bitcomet_tracker
 add address=6rt.tace.ru list=bt_trackers comment=bitcomet_tracker
 add address=7.rarbg.me list=bt_trackers comment=bitcomet_tracker
+add address=74.119.150.221 list=bt_trackers comment=bitcomet_tracker
 add address=74.48.17.122 list=bt_trackers comment=bitcomet_tracker
 add address=74.82.52.209 list=bt_trackers comment=bitcomet_tracker
 add address=75.127.14.224 list=bt_trackers comment=bitcomet_tracker
