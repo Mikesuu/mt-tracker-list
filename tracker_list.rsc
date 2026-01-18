@@ -374,6 +374,7 @@ add address=189.18.96.199 list=bt_trackers comment=bitcomet_tracker
 add address=189.18.96.56 list=bt_trackers comment=bitcomet_tracker
 add address=189.18.97.116 list=bt_trackers comment=bitcomet_tracker
 add address=189.18.97.201 list=bt_trackers comment=bitcomet_tracker
+add address=189.69.167.105 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.167.130 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.168.180 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.169.237 list=bt_trackers comment=bitcomet_tracker
@@ -1758,6 +1759,7 @@ add address=tracker.lyretain.site list=bt_trackers comment=bitcomet_tracker
 add address=tracker.m-team.cc list=bt_trackers comment=bitcomet_tracker
 add address=tracker.madtia.cc list=bt_trackers comment=bitcomet_tracker
 add address=tracker.magnetoo.io list=bt_trackers comment=bitcomet_tracker
+add address=tracker.maya.no.eu.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.merded.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.mg64.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.midnightprogrammer.net list=bt_trackers comment=bitcomet_tracker
