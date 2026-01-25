@@ -165,6 +165,7 @@ add address=148.251.53.72 list=bt_trackers comment=bitcomet_tracker
 add address=148.252.75.241 list=bt_trackers comment=bitcomet_tracker
 add address=149.202.88.193 list=bt_trackers comment=bitcomet_tracker
 add address=15.204.205.14 list=bt_trackers comment=bitcomet_tracker
+add address=15.204.239.175 list=bt_trackers comment=bitcomet_tracker
 add address=15.204.56.171 list=bt_trackers comment=bitcomet_tracker
 add address=15.204.57.168 list=bt_trackers comment=bitcomet_tracker
 add address=151.115.49.115 list=bt_trackers comment=bitcomet_tracker
@@ -184,6 +185,7 @@ add address=152.249.97.159 list=bt_trackers comment=bitcomet_tracker
 add address=152.53.152.105 list=bt_trackers comment=bitcomet_tracker
 add address=152.67.8.255 list=bt_trackers comment=bitcomet_tracker
 add address=154.29.145.56 list=bt_trackers comment=bitcomet_tracker
+add address=154.40.43.165 list=bt_trackers comment=bitcomet_tracker
 add address=155.248.200.105 list=bt_trackers comment=bitcomet_tracker
 add address=156.234.201.18 list=bt_trackers comment=bitcomet_tracker
 add address=157.131.124.190 list=bt_trackers comment=bitcomet_tracker
@@ -294,6 +296,7 @@ add address=179.98.254.201 list=bt_trackers comment=bitcomet_tracker
 add address=179.98.254.95 list=bt_trackers comment=bitcomet_tracker
 add address=179.98.51.208 list=bt_trackers comment=bitcomet_tracker
 add address=179.98.51.248 list=bt_trackers comment=bitcomet_tracker
+add address=179.98.51.66 list=bt_trackers comment=bitcomet_tracker
 add address=18.191.163.220 list=bt_trackers comment=bitcomet_tracker
 add address=180.113.224.97 list=bt_trackers comment=bitcomet_tracker
 add address=180.113.227.211 list=bt_trackers comment=bitcomet_tracker
@@ -1201,6 +1204,7 @@ add address=li2021-95.members.linode.com list=bt_trackers comment=bitcomet_track
 add address=lima-peru.subventas.com list=bt_trackers comment=bitcomet_tracker
 add address=line-net.ru list=bt_trackers comment=bitcomet_tracker
 add address=linfan.moe list=bt_trackers comment=bitcomet_tracker
+add address=litter.fluffykitten.moe list=bt_trackers comment=bitcomet_tracker
 add address=llideong.cn list=bt_trackers comment=bitcomet_tracker
 add address=lloria.fr list=bt_trackers comment=bitcomet_tracker
 add address=ln.mtahost.co list=bt_trackers comment=bitcomet_tracker
