@@ -442,6 +442,7 @@ add address=2.tracker.eu.org list=bt_trackers comment=bitcomet_tracker
 add address=200.111.152.53 list=bt_trackers comment=bitcomet_tracker
 add address=200.111.152.54 list=bt_trackers comment=bitcomet_tracker
 add address=200.148.11.147 list=bt_trackers comment=bitcomet_tracker
+add address=200.148.11.156 list=bt_trackers comment=bitcomet_tracker
 add address=200.148.11.61 list=bt_trackers comment=bitcomet_tracker
 add address=200.161.254.131 list=bt_trackers comment=bitcomet_tracker
 add address=200.161.254.194 list=bt_trackers comment=bitcomet_tracker
@@ -1297,6 +1298,7 @@ add address=opentracker.8880085.xyz list=bt_trackers comment=bitcomet_tracker
 add address=opentracker.acgnx.com list=bt_trackers comment=bitcomet_tracker
 add address=opentracker.acgnx.se list=bt_trackers comment=bitcomet_tracker
 add address=opentracker.cc list=bt_trackers comment=bitcomet_tracker
+add address=opentracker.co list=bt_trackers comment=bitcomet_tracker
 add address=opentracker.dg list=bt_trackers comment=bitcomet_tracker
 add address=opentracker.eeptorrent list=bt_trackers comment=bitcomet_tracker
 add address=opentracker.fattydove list=bt_trackers comment=bitcomet_tracker
