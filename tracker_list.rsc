@@ -450,6 +450,7 @@ add address=200.161.254.194 list=bt_trackers comment=bitcomet_tracker
 add address=200.161.254.20 list=bt_trackers comment=bitcomet_tracker
 add address=200.168.116.107 list=bt_trackers comment=bitcomet_tracker
 add address=200.168.116.200 list=bt_trackers comment=bitcomet_tracker
+add address=200.168.116.68 list=bt_trackers comment=bitcomet_tracker
 add address=200.168.117.55 list=bt_trackers comment=bitcomet_tracker
 add address=200.170.109.125 list=bt_trackers comment=bitcomet_tracker
 add address=200.170.109.148 list=bt_trackers comment=bitcomet_tracker
@@ -538,6 +539,7 @@ add address=220.200.35.69 list=bt_trackers comment=bitcomet_tracker
 add address=220.200.35.72 list=bt_trackers comment=bitcomet_tracker
 add address=220.200.35.97 list=bt_trackers comment=bitcomet_tracker
 add address=220.250.51.200 list=bt_trackers comment=bitcomet_tracker
+add address=222.191.171.198 list=bt_trackers comment=bitcomet_tracker
 add address=222.216.138.184 list=bt_trackers comment=bitcomet_tracker
 add address=222.216.138.211 list=bt_trackers comment=bitcomet_tracker
 add address=222.216.138.224 list=bt_trackers comment=bitcomet_tracker
@@ -1848,6 +1850,7 @@ add address=tracker.rev.pm list=bt_trackers comment=bitcomet_tracker
 add address=tracker.sakurato.art list=bt_trackers comment=bitcomet_tracker
 add address=tracker.sbsub.com list=bt_trackers comment=bitcomet_tracker
 add address=tracker.servequake.com list=bt_trackers comment=bitcomet_tracker
+add address=tracker.sharebro.in list=bt_trackers comment=bitcomet_tracker
 add address=tracker.sheesh.rip list=bt_trackers comment=bitcomet_tracker
 add address=tracker.shittyurl.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.shkinev.me list=bt_trackers comment=bitcomet_tracker
@@ -1907,6 +1910,7 @@ add address=tracker.trojangogogo.site list=bt_trackers comment=bitcomet_tracker
 add address=tracker.tryhackx.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.tvgc.win list=bt_trackers comment=bitcomet_tracker
 add address=tracker.tvunderground.org.ru list=bt_trackers comment=bitcomet_tracker
+add address=tracker.umunu.ru list=bt_trackers comment=bitcomet_tracker
 add address=tracker.uraniumhexafluori.de list=bt_trackers comment=bitcomet_tracker
 add address=tracker.uw0.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.v6speed.org list=bt_trackers comment=bitcomet_tracker
