@@ -10,6 +10,7 @@ add address=0d.kebhana.mx list=bt_trackers comment=bitcomet_tracker
 add address=0x7c.space list=bt_trackers comment=bitcomet_tracker
 add address=1.tracker.eu.org list=bt_trackers comment=bitcomet_tracker
 add address=10.rarbg.com list=bt_trackers comment=bitcomet_tracker
+add address=101.99.94.187 list=bt_trackers comment=bitcomet_tracker
 add address=103.122.21.50 list=bt_trackers comment=bitcomet_tracker
 add address=103.251.166.126 list=bt_trackers comment=bitcomet_tracker
 add address=104.131.98.232 list=bt_trackers comment=bitcomet_tracker
@@ -222,6 +223,7 @@ add address=171.104.226.25 list=bt_trackers comment=bitcomet_tracker
 add address=171.104.226.31 list=bt_trackers comment=bitcomet_tracker
 add address=171.104.226.87 list=bt_trackers comment=bitcomet_tracker
 add address=172.105.235.127 list=bt_trackers comment=bitcomet_tracker
+add address=173.201.36.219 list=bt_trackers comment=bitcomet_tracker
 add address=173.249.201.201 list=bt_trackers comment=bitcomet_tracker
 add address=173.254.204.71 list=bt_trackers comment=bitcomet_tracker
 add address=176.123.1.180 list=bt_trackers comment=bitcomet_tracker
@@ -298,6 +300,7 @@ add address=179.98.51.208 list=bt_trackers comment=bitcomet_tracker
 add address=179.98.51.248 list=bt_trackers comment=bitcomet_tracker
 add address=179.98.51.66 list=bt_trackers comment=bitcomet_tracker
 add address=18.191.163.220 list=bt_trackers comment=bitcomet_tracker
+add address=180.112.57.159 list=bt_trackers comment=bitcomet_tracker
 add address=180.113.224.97 list=bt_trackers comment=bitcomet_tracker
 add address=180.113.227.211 list=bt_trackers comment=bitcomet_tracker
 add address=180.97.219.76 list=bt_trackers comment=bitcomet_tracker
@@ -450,7 +453,7 @@ add address=200.161.254.194 list=bt_trackers comment=bitcomet_tracker
 add address=200.161.254.20 list=bt_trackers comment=bitcomet_tracker
 add address=200.168.116.107 list=bt_trackers comment=bitcomet_tracker
 add address=200.168.116.200 list=bt_trackers comment=bitcomet_tracker
-add address=200.168.116.68 list=bt_trackers comment=bitcomet_tracker
+add address=200.168.116.61 list=bt_trackers comment=bitcomet_tracker
 add address=200.168.117.55 list=bt_trackers comment=bitcomet_tracker
 add address=200.170.109.125 list=bt_trackers comment=bitcomet_tracker
 add address=200.170.109.148 list=bt_trackers comment=bitcomet_tracker
@@ -595,6 +598,7 @@ add address=34.94.76.146 list=bt_trackers comment=bitcomet_tracker
 add address=35.227.12.84 list=bt_trackers comment=bitcomet_tracker
 add address=35.227.59.57 list=bt_trackers comment=bitcomet_tracker
 add address=37.1.205.12 list=bt_trackers comment=bitcomet_tracker
+add address=37.120.182.83 list=bt_trackers comment=bitcomet_tracker
 add address=37.187.111.136 list=bt_trackers comment=bitcomet_tracker
 add address=37.187.95.112 list=bt_trackers comment=bitcomet_tracker
 add address=37.19.5.139 list=bt_trackers comment=bitcomet_tracker
@@ -666,6 +670,7 @@ add address=5.196.89.204 list=bt_trackers comment=bitcomet_tracker
 add address=5.255.124.190 list=bt_trackers comment=bitcomet_tracker
 add address=5.39.87.82 list=bt_trackers comment=bitcomet_tracker
 add address=5.45.69.185 list=bt_trackers comment=bitcomet_tracker
+add address=5.75.253.124 list=bt_trackers comment=bitcomet_tracker
 add address=5.78.67.213 list=bt_trackers comment=bitcomet_tracker
 add address=5.79.249.77 list=bt_trackers comment=bitcomet_tracker
 add address=5.79.83.193 list=bt_trackers comment=bitcomet_tracker
@@ -743,6 +748,7 @@ add address=77.91.85.95 list=bt_trackers comment=bitcomet_tracker
 add address=78.153.130.109 list=bt_trackers comment=bitcomet_tracker
 add address=78.30.254.12 list=bt_trackers comment=bitcomet_tracker
 add address=78.40.116.12 list=bt_trackers comment=bitcomet_tracker
+add address=78.71.168.156 list=bt_trackers comment=bitcomet_tracker
 add address=79.111.12.213 list=bt_trackers comment=bitcomet_tracker
 add address=79.112.33.41 list=bt_trackers comment=bitcomet_tracker
 add address=79.112.45.138 list=bt_trackers comment=bitcomet_tracker
@@ -870,6 +876,7 @@ add address=87.110.238.140 list=bt_trackers comment=bitcomet_tracker
 add address=87.248.186.252 list=bt_trackers comment=bitcomet_tracker
 add address=87.253.152.137 list=bt_trackers comment=bitcomet_tracker
 add address=88.216.2.71 list=bt_trackers comment=bitcomet_tracker
+add address=88.80.22.67 list=bt_trackers comment=bitcomet_tracker
 add address=88.80.28.7 list=bt_trackers comment=bitcomet_tracker
 add address=88.99.189.199 list=bt_trackers comment=bitcomet_tracker
 add address=88.99.2.212 list=bt_trackers comment=bitcomet_tracker
