@@ -254,6 +254,7 @@ add address=177.144.178.39 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.61.236 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.61.249 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.61.33 list=bt_trackers comment=bitcomet_tracker
+add address=177.172.62.154 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.62.168 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.62.179 list=bt_trackers comment=bitcomet_tracker
 add address=177.172.62.185 list=bt_trackers comment=bitcomet_tracker
