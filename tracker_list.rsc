@@ -419,6 +419,7 @@ add address=191.255.155.138 list=bt_trackers comment=bitcomet_tracker
 add address=191.255.155.153 list=bt_trackers comment=bitcomet_tracker
 add address=191.255.155.187 list=bt_trackers comment=bitcomet_tracker
 add address=191.255.155.74 list=bt_trackers comment=bitcomet_tracker
+add address=191.255.193.158 list=bt_trackers comment=bitcomet_tracker
 add address=191.255.193.16 list=bt_trackers comment=bitcomet_tracker
 add address=191.255.193.44 list=bt_trackers comment=bitcomet_tracker
 add address=192.3.165.191 list=bt_trackers comment=bitcomet_tracker
