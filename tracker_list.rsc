@@ -305,6 +305,7 @@ add address=18.191.163.220 list=bt_trackers comment=bitcomet_tracker
 add address=180.112.57.159 list=bt_trackers comment=bitcomet_tracker
 add address=180.113.224.97 list=bt_trackers comment=bitcomet_tracker
 add address=180.113.227.211 list=bt_trackers comment=bitcomet_tracker
+add address=180.114.103.80 list=bt_trackers comment=bitcomet_tracker
 add address=180.97.219.76 list=bt_trackers comment=bitcomet_tracker
 add address=181.214.58.63 list=bt_trackers comment=bitcomet_tracker
 add address=182.176.139.129 list=bt_trackers comment=bitcomet_tracker
@@ -390,6 +391,7 @@ add address=189.18.96.56 list=bt_trackers comment=bitcomet_tracker
 add address=189.18.96.9 list=bt_trackers comment=bitcomet_tracker
 add address=189.18.97.116 list=bt_trackers comment=bitcomet_tracker
 add address=189.18.97.201 list=bt_trackers comment=bitcomet_tracker
+add address=189.18.97.57 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.167.105 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.167.130 list=bt_trackers comment=bitcomet_tracker
 add address=189.69.168.180 list=bt_trackers comment=bitcomet_tracker
