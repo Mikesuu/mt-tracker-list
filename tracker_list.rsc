@@ -290,6 +290,7 @@ add address=179.100.24.134 list=bt_trackers comment=bitcomet_tracker
 add address=179.118.129.194 list=bt_trackers comment=bitcomet_tracker
 add address=179.118.132.77 list=bt_trackers comment=bitcomet_tracker
 add address=179.118.133.224 list=bt_trackers comment=bitcomet_tracker
+add address=179.146.54.147 list=bt_trackers comment=bitcomet_tracker
 add address=179.175.247.60 list=bt_trackers comment=bitcomet_tracker
 add address=179.175.247.70 list=bt_trackers comment=bitcomet_tracker
 add address=179.175.247.98 list=bt_trackers comment=bitcomet_tracker
@@ -897,6 +898,7 @@ add address=9.rarbg.com list=bt_trackers comment=bitcomet_tracker
 add address=9.rarbg.me list=bt_trackers comment=bitcomet_tracker
 add address=9.rarbg.to list=bt_trackers comment=bitcomet_tracker
 add address=9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com list=bt_trackers comment=bitcomet_tracker
+add address=91.186.213.204 list=bt_trackers comment=bitcomet_tracker
 add address=91.208.197.19 list=bt_trackers comment=bitcomet_tracker
 add address=91.208.206.133 list=bt_trackers comment=bitcomet_tracker
 add address=91.211.5.21 list=bt_trackers comment=bitcomet_tracker
