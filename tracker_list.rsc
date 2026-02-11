@@ -306,6 +306,7 @@ add address=18.191.163.220 list=bt_trackers comment=bitcomet_tracker
 add address=180.112.57.159 list=bt_trackers comment=bitcomet_tracker
 add address=180.113.224.97 list=bt_trackers comment=bitcomet_tracker
 add address=180.113.227.211 list=bt_trackers comment=bitcomet_tracker
+add address=180.113.232.20 list=bt_trackers comment=bitcomet_tracker
 add address=180.114.103.80 list=bt_trackers comment=bitcomet_tracker
 add address=180.97.219.76 list=bt_trackers comment=bitcomet_tracker
 add address=181.214.58.63 list=bt_trackers comment=bitcomet_tracker
@@ -412,6 +413,7 @@ add address=189.79.13.111 list=bt_trackers comment=bitcomet_tracker
 add address=190.146.242.81 list=bt_trackers comment=bitcomet_tracker
 add address=191.101.229.236 list=bt_trackers comment=bitcomet_tracker
 add address=191.23.121.129 list=bt_trackers comment=bitcomet_tracker
+add address=191.23.62.111 list=bt_trackers comment=bitcomet_tracker
 add address=191.23.62.147 list=bt_trackers comment=bitcomet_tracker
 add address=191.23.71.103 list=bt_trackers comment=bitcomet_tracker
 add address=191.23.71.193 list=bt_trackers comment=bitcomet_tracker
@@ -1288,6 +1290,7 @@ add address=o-unkusrx.cloud.okteto.net list=bt_trackers comment=bitcomet_tracker
 add address=odd-hd.fr list=bt_trackers comment=bitcomet_tracker
 add address=oh.fuuuuuck.com list=bt_trackers comment=bitcomet_tracker
 add address=on.springsunday.net list=bt_trackers comment=bitcomet_tracker
+add address=onioniot.tk list=bt_trackers comment=bitcomet_tracker
 add address=open-tracker.demonoid.ch list=bt_trackers comment=bitcomet_tracker
 add address=open-v6.demonoid.ch list=bt_trackers comment=bitcomet_tracker
 add address=open.4ever.tk list=bt_trackers comment=bitcomet_tracker
