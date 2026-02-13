@@ -1797,6 +1797,7 @@ add address=tracker.lyretain.site list=bt_trackers comment=bitcomet_tracker
 add address=tracker.m-team.cc list=bt_trackers comment=bitcomet_tracker
 add address=tracker.madtia.cc list=bt_trackers comment=bitcomet_tracker
 add address=tracker.magnetoo.io list=bt_trackers comment=bitcomet_tracker
+add address=tracker.manager.v6.navy list=bt_trackers comment=bitcomet_tracker
 add address=tracker.maya.no.eu.org list=bt_trackers comment=bitcomet_tracker
 add address=tracker.merded.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.mg64.net list=bt_trackers comment=bitcomet_tracker
