@@ -985,6 +985,7 @@ add address=baibako.tv list=bt_trackers comment=bitcomet_tracker
 add address=bananas.space list=bt_trackers comment=bitcomet_tracker
 add address=bandito.byterunner.io list=bt_trackers comment=bitcomet_tracker
 add address=bclearning.top list=bt_trackers comment=bitcomet_tracker
+add address=bdremux.club list=bt_trackers comment=bitcomet_tracker
 add address=bedro.cloud list=bt_trackers comment=bitcomet_tracker
 add address=ben.kerbertools.xyz list=bt_trackers comment=bitcomet_tracker
 add address=betelgeuse.freeddns.org list=bt_trackers comment=bitcomet_tracker
@@ -1273,6 +1274,7 @@ add address=multi.open-tracker.cf list=bt_trackers comment=bitcomet_tracker
 add address=music-torrent.net list=bt_trackers comment=bitcomet_tracker
 add address=mvgroup.org list=bt_trackers comment=bitcomet_tracker
 add address=nagios.tks.sumy.ua list=bt_trackers comment=bitcomet_tracker
+add address=navegador.click list=bt_trackers comment=bitcomet_tracker
 add address=netmap.top list=bt_trackers comment=bitcomet_tracker
 add address=new-line.net list=bt_trackers comment=bitcomet_tracker
 add address=node01.edge-team.cc list=bt_trackers comment=bitcomet_tracker
@@ -1692,6 +1694,7 @@ add address=tracker.eddie4.nl list=bt_trackers comment=bitcomet_tracker
 add address=tracker.edkj.club list=bt_trackers comment=bitcomet_tracker
 add address=tracker.edoardocolombo.eu list=bt_trackers comment=bitcomet_tracker
 add address=tracker.electro-torrent.pl list=bt_trackers comment=bitcomet_tracker
+add address=tracker.emule.best list=bt_trackers comment=bitcomet_tracker
 add address=tracker.encrypted-data.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.enitin.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.etree.org list=bt_trackers comment=bitcomet_tracker
@@ -1744,6 +1747,7 @@ add address=tracker.hiyj.cn list=bt_trackers comment=bitcomet_tracker
 add address=tracker.home.kmzs123.cn list=bt_trackers comment=bitcomet_tracker
 add address=tracker.iamhansen.xyz list=bt_trackers comment=bitcomet_tracker
 add address=tracker.ilibr.org list=bt_trackers comment=bitcomet_tracker
+add address=tracker.imgdump.lol list=bt_trackers comment=bitcomet_tracker
 add address=tracker.imgoingto.icu list=bt_trackers comment=bitcomet_tracker
 add address=tracker.internetwarriors.net list=bt_trackers comment=bitcomet_tracker
 add address=tracker.iochimari.moe list=bt_trackers comment=bitcomet_tracker
